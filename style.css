@@ -1,0 +1,48 @@
+.heading{
+    font-family: Comic Sans Ms;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 20px 5px 10px palegreen;
+}
+
+.heading_div{
+    float: none;
+    font-family: Algerian;
+font-weight: bold;
+border: outset;
+background-color: peru;
+color: plum;
+padding: 10px;
+box-shadow: -20px 5px 10px yellowgreen;
+}
+
+.para_result{
+    box-shadow: -15px 5px 15px palevioletred ;
+    font-size: 20px;
+}
+
+.copyright_footer{
+line-height: 3;
+bottom: 0px;
+position: fixed;
+width: 100%;
+text-align: center;
+color: black;
+background-color: gray;
+}
+
+canvas{
+    border: dashed blue 7px ;
+    border-radius: 20px;
+    box-shadow : 15px 5px 15px red;
+    margin-top : 100px;
+    
+}
+
+.div2{
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    font-size: 20px;
+}
